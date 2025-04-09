@@ -1,5 +1,5 @@
 # Yocto
-To build the image 
+
 Build Linux Image for Raspberry Pi board using Yocto Project
 
 
