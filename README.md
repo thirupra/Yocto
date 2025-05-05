@@ -292,3 +292,17 @@ sudo dd if=tmp/deploy/images/raspberrypi4-64/core-image-full-cmdline-raspberrypi
 
 
 lsof /dev/video0
+
+
+
+
+
+for Raspberry 5 
+![Screenshot from 2025-05-05 11-24-11](https://github.com/user-attachments/assets/3a88832b-034a-4147-97c7-7b517f241901)
+![Screenshot from 2025-05-05 11-25-16](https://github.com/user-attachments/assets/ad47a06d-efed-4072-b373-3c4411636a2b)
+![Screenshot from 2025-05-05 11-26-06](https://github.com/user-attachments/assets/92bc8d49-623c-4c24-800f-cf3b45882f3c)
+![image](https://github.com/user-attachments/assets/607644b7-d72c-478e-afd7-00c770f21a49)
+
+
+
+
