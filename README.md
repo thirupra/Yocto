@@ -306,3 +306,12 @@ for Raspberry 5
 
 
 
+
+raspberry pi 64
+
+![Screenshot from 2025-05-05 13-31-28](https://github.com/user-attachments/assets/4af96746-7a8d-4391-b128-e8ed66564b89)
+
+![Screenshot from 2025-05-05 13-33-02](https://github.com/user-attachments/assets/3101aa25-b4fb-46cc-884b-6db0560ea928)
+
+
+
